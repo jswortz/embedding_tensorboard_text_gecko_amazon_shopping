@@ -17,7 +17,7 @@ This repo covers how to:
 The following image shows the embedding of the first 1000 products in the dataset. The embedding is a 768-dimensional vector, and each product is represented by a point in this space. The points are colored by the product category.
 
 
-<img src="../img/tensorboard.png" width=600px />
+<img src="img/tensorboard.png" width=600px />
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/
 
