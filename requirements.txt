@@ -6,3 +6,4 @@ pandas
 datasets
 tensorflow==2.13.1
 google-cloud-aiplatform
+bigframes   
