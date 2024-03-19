@@ -3,9 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# data
+*.parquet
+
 # C extensions
 *.so
+*.jsonl
+*.json
+*.txt
+*.csv
 
+esci-data/
 # Distribution / packaging
 .Python
 build/
