@@ -8,10 +8,8 @@ This repo covers how to:
 
 ## Getting started
 
-1. Clone the repo
-2. Run `bash run.sh`
-3. Open `tensorboard.dev` and select the run `textgecko_embedding`
-
+1. Log in with ADC creditentials
+2. Open [notebook]('notebooks/ecomm_gecko_tensorboard.ipynb')
 ## Results
 
 The following image shows the embedding of the first 1000 products in the dataset. The embedding is a 768-dimensional vector, and each product is represented by a point in this space. The points are colored by the product category.
