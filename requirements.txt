@@ -1,9 +1,5 @@
-aicrowd-cli
-transformers[torch]
-scikit-learn
-sentence-transformers
+tensorflow
+google-cloud-aiplatform
+tensorboard
 pandas
 datasets
-tensorflow==2.13.1
-google-cloud-aiplatform
-tensorboard   
