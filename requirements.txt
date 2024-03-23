@@ -3,3 +3,4 @@ google-cloud-aiplatform
 tensorboard
 pandas
 datasets
+# transformers==4.39.0

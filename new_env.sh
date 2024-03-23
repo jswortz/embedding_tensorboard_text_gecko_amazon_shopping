@@ -7,9 +7,11 @@
 conda create -n $1 -y
 conda activate $1
 
+
 # Install packages using a pip local to the conda environment.
 conda install pip ipykernel -y
 pip install -r requirements.txt
+
 
 # Adds the conda kernel.
 DL_ANACONDA_ENV_HOME="${DL_ANACONDA_HOME}/envs/$1"
