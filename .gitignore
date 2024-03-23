@@ -85,8 +85,11 @@ target/
 *.TSV
 *.TSV*.pbxt
 checkpoint
-
+*.index
+*.tsv
+*.pbtxt
 # Jupyter Notebook
+*data-*
 .ipynb_checkpoints
 
 # IPython
