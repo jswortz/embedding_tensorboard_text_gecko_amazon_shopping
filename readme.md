@@ -8,7 +8,7 @@ This repo covers how to:
 
 ## Getting started
 
-1. Log in with ADC creditentials
+1. Log in with ADC credentials
 2. Open [notebook](notebooks/ecomm_gecko_tensorboard.ipynb)
 ## Results
 

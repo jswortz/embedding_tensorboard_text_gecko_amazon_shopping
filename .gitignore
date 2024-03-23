@@ -82,6 +82,10 @@ docs/_build/
 # PyBuilder
 target/
 
+*.TSV
+*.TSV*.pbxt
+checkpoint
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
